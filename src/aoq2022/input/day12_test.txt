@@ -1,0 +1,4 @@
+on 3x2
+rotate column x=2 by 1
+rotate row y=0 by 6
+off 5x2
