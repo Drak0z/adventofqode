@@ -30,5 +30,10 @@
 			<artifactId>spark-core</artifactId>
 			<version>2.9.4</version>
 		</dependency>
+		<dependency>
+			<groupId>org.ojalgo</groupId>
+			<artifactId>ojalgo</artifactId>
+			<version>52.0.1</version>
+		</dependency>
 	</dependencies>
 </project>

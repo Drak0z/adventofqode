@@ -1,0 +1,7 @@
+AliceBot -> BobBot: 1200 bits/sec
+AliceBot -> CharlieBot: 9600 bits/sec
+BobBot -> CharlieBot: 1200 bits/sec
+CharlieBot -> Dudley: 9600 bits/sec
+EchoBot -> BobBot: 2400 bits/sec
+Dudley -> EchoBot: 4800 bits/sec
+AliceBot -> Dudley: 1200 bits/sec
